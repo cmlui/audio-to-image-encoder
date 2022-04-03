@@ -10,7 +10,7 @@ This is the code for one of my thesis project models. The project is to experime
 -random_audio stores an example audio for trial with the conversion.<br>
 -audio_representations.npy and representation_from_image.npy are the intermediary latent representations.<br>
 -generated_image.png is the image generated from GANs.<br>
--requirement.txt listed the required packages<br><br>
+-requirement.txt listed the required packages<br>
 
 ---audio_model---<br>
 -audio_dataset is a placeholder. Please download data from http://www-mmsp.ece.mcgill.ca/Documents/Data/ (48k.zip) and place the unzipped contents into the folder. <br> 
