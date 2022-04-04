@@ -20,8 +20,9 @@ This is the code for one of my thesis project models. The project is to experime
 
 ---image_model---<br>
 -image_dataset is a placeholder. Please download data from https://www.kaggle.com/datasets/bryanb/abstract-art-gallery and place the images into the folder. <br>
--gans_image.ipynb is the code for training the model. The trained model will be saved in gen_model.<br>
--training_checkpoints will store the checkpoints during training for every 10 epochs.
+-gans_image.ipynb is the code for training the model. The trained model will be saved in generator_model.<br>
+-training_checkpoints will store the checkpoints during training for every 10 epochs.<br>
+-output images during training will be saved in output_img folder.
 
 <hr>
 *The audio model is referenced from this project https://github.com/musikalkemist/generating-sound-with-neural-networks <br>
